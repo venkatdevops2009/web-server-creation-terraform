@@ -1,6 +1,6 @@
 # Web Server Creation with Terraform
 
-A comprehensive Terraform project that provisions an AWS VPC and a web server (EC2 instance). This project is written in a clear, step-by-step format so anyone can clone the repo and deploy the infrastructure.
+A comprehensive Terraform project that provisions an AWS VPC and a web server (EC2 instance). This project is written in a clear, step-by-step format so anyone can clone the repo and deploy the infrastructure. 
 
 ## 🎯 Project Overview
 
